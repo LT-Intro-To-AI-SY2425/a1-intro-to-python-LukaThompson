@@ -15,7 +15,7 @@ if is_palindrome(input_string):
     print("The string is a palindrome.")
 else:
     print("The string is not a palindrome.")
-
+############################################################
 
 # Farenheit to Celcius
 def f_to_c(f):
@@ -44,7 +44,7 @@ def start():
 
 if __name__ == "__main__":
     start()
-
+############################################################
 
 #Fizbuzz
 def fizbuzz(input_num):
